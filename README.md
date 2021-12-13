@@ -13,13 +13,13 @@
 <table style="border-radius:6px;" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      Discord https://discord.gg/xv5rhspFBg
+     
     </td>
     <td align="center" style="padding=0;width=50%;">
-      Instagram https://www.instagram.com/gumernus.jpg
+      
     </td>
     <td align="center" style="padding=0;width=50%;">
-     Twitter https://twitter.com/michal_lmao
+   
     </td>
   </tr>
 </table>
