@@ -10,19 +10,6 @@
 ➤⌠🔬⌡ The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [Mongoose](https://github.com/Automattic/mongoose) , [Vue.js V3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
 
 ---
-<table style="border-radius:6px;" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-     
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-   
-    </td>
-  </tr>
-</table>
 
 ---
 
