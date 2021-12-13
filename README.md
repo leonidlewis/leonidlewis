@@ -1,44 +1,40 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Hi, I'm [LeonidLewis](https://www.linkedin.com/in/leonid-lewis-8b985721b) 👋 
 
-## Available Scripts
+### Developer, Athlete and Singer
 
-In the project directory, you can run:
+---
+➤⌠🧻⌡ My main languages are JavaScript, TypeScript and PHP
 
-### `yarn start`
+➤⌠🔭⌡ I’m currently working on my project [Mortrack Driver]
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+➤⌠🔬⌡ The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [Mongoose](https://github.com/Automattic/mongoose) , [Vue.js V3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+---
+<table style="border-radius:6px;" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      Discord https://discord.gg/xv5rhspFBg
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      Instagram https://www.instagram.com/gumernus.jpg
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+     Twitter https://twitter.com/michal_lmao
+    </td>
+  </tr>
+</table>
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<table style="border-radius:6px;" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=gumernus&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=gumernus&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+</table>
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
