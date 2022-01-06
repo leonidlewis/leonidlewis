@@ -3,7 +3,7 @@
 ### Developer, Athlete and Singer
 
 ---
-➤⌠🧻⌡ My main languages are JavaScript, TypeScript and PHP
+➤⌠🧻⌡ My main languages are JavaScript and TypeScript
 
 ➤⌠🔭⌡ I’m currently working on my project [Mortrack Driver]
 
