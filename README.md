@@ -5,9 +5,9 @@
 ---
 ➤⌠🧻⌡ My main languages are JavaScript and TypeScript
 
-➤⌠🔭⌡ I’m currently working on my project(mobile app) [TRXIO_v5.0]
+➤⌠🔭⌡ I’m currently working on my project(mobile app) [TRXIO_v6.0]
 
-➤⌠🔬⌡ The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [Mongoose](https://github.com/Automattic/mongoose) , [Vue.js V3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
+➤⌠🔬⌡ Built the several Mobile app and Website.
 
 ---
 
