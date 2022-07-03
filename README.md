@@ -10,12 +10,12 @@
 ➤⌠🔬⌡ Built the several Mobile app and Website.
 
 ---
-https://prysm.xyz
-https://cryptodickheads.com
-https://nftitsclub.com
-https://play.google.com/store/apps/details?id=com.xendmobile&hl=en_US&gl=US
-https://apps.apple.com/us/app/xend-finance/id1587050825
-https://apps.apple.com/us/app/mortrack-driver/id1566156094
+## https://prysm.xyz
+## https://cryptodickheads.com
+## https://nftitsclub.com
+## https://play.google.com/store/apps/details?id=com.xendmobile&hl=en_US&gl=US
+## https://apps.apple.com/us/app/xend-finance/id1587050825
+## https://apps.apple.com/us/app/mortrack-driver/id1566156094
 
 ---
 
