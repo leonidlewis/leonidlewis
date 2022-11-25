@@ -10,6 +10,7 @@
 ➤⌠🔬⌡ Built the several Mobile app and Website.
 
 ---
+## https://basicisland.io
 ## https://prysm.xyz
 ## https://cryptodickheads.com
 ## https://nftitsclub.com
