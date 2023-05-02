@@ -5,7 +5,7 @@
 ---
 ➤⌠🧻⌡ My main languages are JavaScript and TypeScript
 
-➤⌠🔭⌡ I’m currently working on my project(mobile app) [MorTrack Driver 2022]
+➤⌠🔭⌡ I’m currently working on building the mobile app using React Native (MorTrack)
 
 ➤⌠🔬⌡ Built the several Mobile app and Website.
 
