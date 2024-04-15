@@ -5,7 +5,7 @@
 ---
 ➤⌠🧻⌡ My main languages are JavaScript and TypeScript
 
-➤⌠🔭⌡ I’m currently working on building the mobile app using React Native (Liquidus)
+➤⌠🔭⌡ I’m currently working on building the Web platform for Dnbradio
 
 ➤⌠🔬⌡ Built the several Mobile app and Website.
 
