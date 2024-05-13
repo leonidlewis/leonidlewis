@@ -11,7 +11,6 @@
 
 ---
 ## https://play.google.com/store/apps/details?id=finance.liquidus.wallet&hl=en&gl=US
-## https://apps.apple.com/us/app/cmorq-web3-banking-for-all/id1530022030
 ## https://play.google.com/store/apps/details?id=com.mtdriver_android&hl=en_US&gl=US
 ## https://connect.basicisland.io/
 ## https://basicisland.io
